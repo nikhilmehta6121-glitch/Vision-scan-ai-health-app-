@@ -1,0 +1,6 @@
+{
+  "name": "Healthy - AI Medical Assistant",
+  "description": "AI health, medicine, and food nutrition scanner founded by Nikhil Mehta. Scan medicine strips, prescriptions, and food dishes for instant nutrition breakdown.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

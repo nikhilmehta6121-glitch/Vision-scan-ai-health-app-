@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VisionScan AI Health</string>
+    <string name="app_subtitle">Smart AI Vision Health &amp; Nutrition Assistant</string>
+    <string name="founder_name">Nikhil Mehta</string>
+    <string name="founder_title">Founder &amp; CEO</string>
+    <string name="company_name">Healthy Technologies</string>
+    <string name="contact_phone">+91 6230715655</string>
+    <string name="emergency_helpline">112 / 108 / 1800-116-117</string>
+    <string name="medical_disclaimer">VisionScan AI Health is for wellness and educational purposes only and does not substitute for qualified medical diagnosis, clinical prescription, or treatment.</string>
+</resources>

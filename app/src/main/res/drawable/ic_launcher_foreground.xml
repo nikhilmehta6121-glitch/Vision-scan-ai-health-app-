@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Heart & Health Cross Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,34h12v14h14v12h-14v14h-12v-14h-14v-12h14z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,22c-8.8,0 -16,7.2 -16,16 0,11.2 16,28 16,28s16,-16.8 16,-28c0,-8.8 -7.2,-16 -16,-16z"
+        android:fillAlpha="0.25" />
+</vector>
